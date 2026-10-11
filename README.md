@@ -12,8 +12,8 @@ A clean and interactive C++ command-line application designed to dynamically rec
 ## 🛠️ Tech Stack & C++ Concepts
 - **Language**: C++
 - **Data Structures**: `std::vector`, `std::string`
-- **Logic & Control Flow**: `while` loops, `for` loops, co
-- nditional logic (`if-else`), and limits (`INT_MIN`, `INT_MAX`).
+- **Logic & Control Flow**: `while` loops, `for` loops, `nested` loops
+- conditional logic (`if-else`), and limits (`INT_MIN`, `INT_MAX`).
 
 ## 🚀 How to Run
 1. Clone or download this repository.
